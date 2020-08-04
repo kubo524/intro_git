@@ -4,3 +4,4 @@ gitの練習ファイルをつくります。
 ・git commit
 ・git rm
 ・git status
+・git diff
